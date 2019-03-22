@@ -1,3 +1,6 @@
+# ngx-using-event-emitter
+This repository contains source code of "Weekly Sharing Session - Week 11 - Angular Event Emitter".
+
 # EventEmitter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
